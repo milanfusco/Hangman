@@ -70,7 +70,7 @@ For Singleplayer, Two Player, and Interactive Two Player, you will be prompted t
 ## Add New Words
 To add new words, select the "Manage Word List" option from the menu, then choose to add a new word. Follow the prompts to enter the word and optionally, a hint.
 
-### Contributions
+## Contributions
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to create an issue or a pull request.
 
 
